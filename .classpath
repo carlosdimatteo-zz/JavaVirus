@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/KeyCheckApp/jars/tomcat-embed-core.jar"/>
+	<classpathentry kind="lib" path="/WebSocketExample-master/WebContent/WEB-INF/lib/json-20171018.jar"/>
+	<classpathentry kind="lib" path="C:/develop/apache-tomcat-8.5.20/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carlo_000/Documents/CDDS/json-20180130.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
